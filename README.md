@@ -2,6 +2,8 @@
 
 Post-election there's been a groundswell of data + tech people curious to use their skills to work against Trump's America. There have also been a number of new groups emerging to do just that. It's been a little hard to keep track. This is a list of volunteer-based groups that use data and technology to improve American communities and work against Trump's vision of America. 
 
+**This list is not comprehensive. Please add to it! Submit a pull request or email me at datalensdc@gmail.com**
+
 ## An Important Note
 Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like http://www.holyfucktheelection.com/ (and [grow their list](https://github.com/csb324/holyfucktheelectionistomorrow)) on other ways to volunteer time or money. Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
 
