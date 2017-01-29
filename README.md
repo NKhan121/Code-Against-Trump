@@ -5,7 +5,7 @@ Post-election there's been a groundswell of data + tech people curious to use th
 **This list is not comprehensive. Please add to it! Submit a pull request or email me at datalensdc@gmail.com**
 
 ## An Important Note
-Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like http://www.holyfucktheelection.com/ (and [grow their list](https://github.com/csb324/holyfucktheelectionistomorrow)) on other ways to volunteer time or money. Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
+Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like [Holy Fuck. Now What?](http://www.holyfucktheelection.com/) and [political-resources](https://valeriecodes.github.io/political-resources/) on other ways to volunteer time or money (and help grow [each](https://github.com/csb324/holyfucktheelectionistomorrow) [list](https://github.com/valeriecodes/political-resources), respectively). Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
 
 # Where can I Code Against Trump?
 
