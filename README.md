@@ -14,7 +14,7 @@ Code for America Brigades are local volunteer groups that bring together communi
 **Where?** Lots of places! [Find your local brigade](http://brigade.codeforamerica.org/brigade/)
 
 
-### [DataKind](http://www.datakind.org/)
+## [DataKind](http://www.datakind.org/)
 DataKind couples data scientists with non-profits to address their analytical, visualization, and modeling needs. From evening or weekend events to multi-month projects, all are designed to provide social organizations with the pro bono data science skills they need to address a range of issues across education, poverty, health, human rights, the environment and cities.
 
 **Where?** [Washington, DC](http://www.datakind.org/chapters/datakind-dc), [San Francisco](http://www.datakind.org/chapters/datakind-sf)
@@ -26,15 +26,13 @@ Data for Democracy is a community of data people volunteering on social impact p
 **Where?** The internet. Email jonathon@datafordemocracy.org for an invitation.
 
 
-### [DataRefuge](http://www.ppehlab.org/datarefuge)
+## [DataRefuge](http://www.ppehlab.org/datarefuge)
 DataRefuge is building refuge for federal climate and environmental data vulnerable under an administration that denies the fact of ongoing climate change at Data Rescue events across America. It is an opportunity for civic hackers, scientists, activists, and volunteers of all kinds to to identify, back-up, and help to preserve at-risk climate and environmental data resources before they are suppressed from public view and use.
 
 **Where?** [Cities and universities across America.](http://www.ppehlab.org/datarescue-events) 
 
 
-### [Debug Politics](https://www.debugpolitics.com/) 
+## [Debug Politics](https://www.debugpolitics.com/) 
 Debug Politics is a hackathon for anyone dissatisfied with the 2016 election cycle and designed to turn that dissatisfaction into a unique idea. These are weekend hackathons where developers, designers, and technologists can find innovative ways to make a real difference.
 
-**Where?** Past: San Francisco, New York City Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackathon-tickets-29491780710), Check website for more
-
-
+**Where?** Past: San Francisco, New York City Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackathon-tickets-29491780710), Check website for more to come.
