@@ -35,4 +35,8 @@ DataRefuge is building refuge for federal climate and environmental data vulnera
 ## [Debug Politics](https://www.debugpolitics.com/) 
 Debug Politics is a hackathon for anyone dissatisfied with the 2016 election cycle and designed to turn that dissatisfaction into a unique idea. These are weekend hackathons where developers, designers, and technologists can find innovative ways to make a real difference.
 
-**Where?** Past: San Francisco, New York City Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackathon-tickets-29491780710), Check website for more to come.
+**Where?** 
+
+Past: San Francisco, New York City 
+
+Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackathon-tickets-29491780710). Check website for more to come.
