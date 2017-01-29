@@ -20,7 +20,7 @@ DataKind couples data scientists with non-profits to address their analytical, v
 **Where?** [Washington, DC](http://www.datakind.org/chapters/datakind-dc), [San Francisco](http://www.datakind.org/chapters/datakind-sf)
 
 
-### DataRefuge
+### [DataRefuge](http://www.ppehlab.org/datarefuge)
 DataRefuge is building refuge for federal climate and environmental data vulnerable under an administration that denies the fact of ongoing climate change at Data Rescue events across America. It is an opportunity for civic hackers, scientists, activists, and volunteers of all kinds to to identify, back-up, and help to preserve at-risk climate and environmental data resources before they are suppressed from public view and use.
 
 **Where?** [Cities and universities across America.](http://www.ppehlab.org/datarescue-events) 
